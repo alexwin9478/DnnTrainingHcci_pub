@@ -1,0 +1,61 @@
+/windows_matlab/data/SCD_70016_0001_TimeStamp.mat
+/windows_matlab/data/CF_70016_0001_TimeStamp.mat
+/windows_matlab/script/archive
+/windows_matlab/data
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/matlab
+# Edit at https://www.toptal.com/developers/gitignore?templates=matlab
+
+### MATLAB ###
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info
+octave-workspace
+
+# End of https://www.toptal.com/developers/gitignore/api/matlab
+/windows_matlab/temp/include_paths.mat
+/windows_matlab/model/0004_0004_0101_validation.fig
+/windows_matlab/model/FF_model__0004_0101_validation.fig
+/windows_matlab/model/FF_model_FF_model__0004_0101.mat
+/windows_matlab/model/FF_model_info_FF_model__0004_0101.mat
+/windows_matlab/model/FF_model_inputdata_FF_model__0004_0101.mat
+/windows_matlab/model/FF_model_LSTM_options_tr_FF_model__0004_0101.mat
+/windows_matlab/model/FF_model_outputdata_FF_model__0004_0101.mat
+/windows_matlab/model/LSTM_model__0004_0004_0101.mat
+/windows_matlab/model/LSTM_model__info_0004_0004_0101.mat
+/windows_matlab/model/LSTM_model__inputdata_0004_0004_0101.mat
+/windows_matlab/model/LSTM_model__LSTM_options_tr_0004_0004_0101.mat
+/windows_matlab/model/LSTM_model__outputdata_0004_0004_0101.mat
+/windows_matlab/python/training_data_ml_methods
+/windows_matlab/python/saved_model
+/windows_matlab/python/logs
+/data/VSR40013_0014.mat
+/windows_matlab/script/Evaluation
